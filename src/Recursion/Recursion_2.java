@@ -6,7 +6,7 @@ public class Recursion_2 {
 		// TODO Auto-generated method stub
 		int a =5;
 		int b=4;
-		System.out.println(pow(a,b));*
+		System.out.println(pow(a,b));
 			
 		
 

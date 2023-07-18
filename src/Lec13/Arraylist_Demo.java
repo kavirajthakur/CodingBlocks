@@ -16,7 +16,7 @@ public class Arraylist_Demo {
 		
 		//add
 		ll.add(10);
-		ll.add(20);s098
+		ll.add(20);
 		ll.add(30);
 		System.out.println(ll);
 		ll.add(1,-9);//index ka range 0 to size
@@ -29,7 +29,7 @@ public class Arraylist_Demo {
 		
 		// remove
 		System.out.println(ll.remove(1));
-		System.out.println(ll);.
+		System.out.println(ll);
 	
 
 	}

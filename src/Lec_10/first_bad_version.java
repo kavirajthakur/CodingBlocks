@@ -21,3 +21,4 @@ public class  first_bad_version {
 		// TODO Auto-generated method stub
 		return false;
 }
+}
