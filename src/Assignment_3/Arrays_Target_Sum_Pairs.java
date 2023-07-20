@@ -16,8 +16,8 @@ public class Arrays_Target_Sum_Pairs {
 	    public static void doublepair(int [] arr, int target){
 	        int n = arr.length;
 	        Arrays.sort(arr);
-	        for (int i = 0; i < n - 2; i++) {
-				for (int j = i + 1; j < n - 1; j++) {
+	        for (int i = 0; i < n - 1; i++) {
+				for (int j = i + 1; j < n ; j++) {
 						if (arr[i] + arr[j]== target ) {
 							System.out.println(arr[i] + " and " + arr[j]);
 						}
