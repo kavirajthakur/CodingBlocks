@@ -1,4 +1,4 @@
-package TwoD_Array;
+package twoarray;
 
 public class index {
     public static void main(String[] args) {
